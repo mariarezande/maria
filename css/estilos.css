@@ -14,6 +14,7 @@ body {
   flex-direction: column;
   font-family: 'Montserrat', sans-serif;
   min-height: 100vh;
+  background-image: url("https://th.bing.com/th/id/R.b399ca3cd6cf185f41578dfccdcd581d?rik=rzccn0UOcB%2bA5Q&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2f5%2f0%2f1%2f1025530-widescreen-cool-backgrounds-for-laptops-1920x1080.jpg&ehk=qWK9d3zPuvHMZ%2bW9AgAnryM3JauQVa75YJsRhMuX2sc%3d&risl=&pid=ImgRaw&r=0");
 }
 
 h1 {
@@ -23,7 +24,7 @@ h1 {
 }
 
 .teclado {
-  background: linear-gradient(to bottom, #eeeeee 0%,#cccccc 100%);
+  background: linear-gradient(to bottom, #800080 0%,#7fe70db 100%);
   box-shadow: 6px 8px 0 6px #666, 10px 10px 10px #000;
   border-radius: 30px;
   display: grid;
